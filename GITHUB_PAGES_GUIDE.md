@@ -138,7 +138,6 @@ GitHub Pages 有时需要 1–3 分钟。
 只要重新上传修改后的文件并 commit，GitHub Pages 会自动重新部署。
 
 ---
-
 ## 9. 最终检查清单
 - [ ] 首页可打开
 - [ ] `Reviewer mode` 可打开
